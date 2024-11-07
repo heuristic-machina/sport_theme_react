@@ -1,4 +1,4 @@
-Videos of sport_theme_react App Components:
+Videos of sport_theme_react App demo:
 
 Dropdown:
 https://github.com/user-attachments/assets/46e18e28-2f3b-4bb9-96b9-d84daa74f377
